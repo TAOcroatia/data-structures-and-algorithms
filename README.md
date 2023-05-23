@@ -1,1 +1,2 @@
-# data-structures-and-algorithms
+# Data structures and algorithms
+Code I wrote for a university course
